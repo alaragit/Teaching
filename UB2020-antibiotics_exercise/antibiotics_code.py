@@ -66,6 +66,6 @@ while i < 10:
 	i = i + 1
 
 if whitebac >= 5:
-	print('Your distribution of bacteria after 10 days are:',bluebac,'blue',redbac,'red',whitebac, 'white,', 'this means you are dead.')
+	print('Your distribution of bacteria after 10 days are:',bluebac,'blue',redbac,'red',whitebac, 'white,', 'this means bacteria won.')
 elif whitebac < 5:
 	print('Your distribution of bacteria after 10 days are:',bluebac,'blue',redbac,'red',whitebac, 'white,', 'this means you are alive.')
